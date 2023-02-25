@@ -1,3 +1,9 @@
+---
+title: Rules and tips
+layout: default
+parent: index
+nav_order: 2
+---
 # General
 * You can move the Start instruction wherever you want.
 * You don't have to use both waldos - sometimes one is able to execute the algorithm.

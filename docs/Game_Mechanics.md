@@ -1,3 +1,9 @@
+---
+title: Game mechanics
+layout: default
+parent: index
+nav_order: 1
+---
 Game Mechanics <!-- omit in TOC -->
 =
 # Reactor structure
