@@ -1,3 +1,7 @@
+---
+title: Home
+layout: home
+---
 How to beat "SpaceChem" - a visual programming puzzle game <!-- omit in TOC -->
 =
 # About SpaceChem
